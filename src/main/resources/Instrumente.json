@@ -1,0 +1,34 @@
+[ [ "Chitara", {
+  "producator" : "Gibson",
+  "pret" : "1450",
+  "tipChitara" : "ELECTRICA",
+  "numarCorzi" : 9
+} ], [ "Chitara", {
+  "producator" : "Fender",
+  "pret" : "3748",
+  "tipChitara" : "CLASICA",
+  "numarCorzi" : 4
+} ], [ "Chitara", {
+  "producator" : "Yamaha",
+  "pret" : "3712",
+  "tipChitara" : "ACUSTICA",
+  "numarCorzi" : 12
+} ], [ "SetTobe", {
+  "producator" : "Pearl",
+  "pret" : "3814",
+  "tiptobe" : "ACUSTICE",
+  "nrTobe" : 7,
+  "nr_cinele" : 7
+} ], [ "SetTobe", {
+  "producator" : "Mapex",
+  "pret" : "3501",
+  "tiptobe" : "ACUSTICE",
+  "nrTobe" : 6,
+  "nr_cinele" : 4
+} ], [ "SetTobe", {
+  "producator" : "Yamaha",
+  "pret" : "2352",
+  "tiptobe" : "ELECTRONICE",
+  "nrTobe" : 4,
+  "nr_cinele" : 8
+} ] ]
